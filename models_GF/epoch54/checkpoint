@@ -1,0 +1,5 @@
+model_checkpoint_path: "model.model"
+all_model_checkpoint_paths: "../epoch51/model.model"
+all_model_checkpoint_paths: "../epoch52/model.model"
+all_model_checkpoint_paths: "../epoch53/model.model"
+all_model_checkpoint_paths: "model.model"
