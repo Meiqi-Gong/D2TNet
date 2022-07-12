@@ -1,5 +1,5 @@
 # D2TNet
-Code of D2TNet: A ConvLSTM Network with Dual-direction Transfer for Pan-sharpening
+Code of [D2TNet: A ConvLSTM Network with Dual-direction Transfer for Pan-sharpening](https://ieeexplore.ieee.org/abstract/document/9761261)
 
 Tips
 ---------
