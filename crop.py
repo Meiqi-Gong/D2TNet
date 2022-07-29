@@ -78,7 +78,7 @@ def data_augment(src_roi,gt_roi):
 #
 #
 # # image_num：增广之后的图片数据
-def creat_dataset(image_num=2, mode='original'):
+def creat_dataset(image_num=2, mode='augment'):
     print('creating dataset...')
     image_each = image_num / len(image_sets)
     g_count = 1
