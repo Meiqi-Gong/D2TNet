@@ -8,7 +8,7 @@ Tips
 * Step2: Run train.py.
 
 #### To test with the pre-trained model:<br>
-* In model.py, comment out the 20th line, and run main.py.
+* In model.py, comment out the 20th line, and run main.py.\\
   (We also train the network on WorldView-II dataset with 8 channels, and put the pretrained model [here](https://github.com/Meiqi-Gong/PSDNet/tree/main/D2TNet_models_WV2))
 
 If this work is helpful to you, please cite it as:
